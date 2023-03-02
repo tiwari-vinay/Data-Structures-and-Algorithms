@@ -1,0 +1,2 @@
+1. So there is no mechanism to check for array out of bound index in C/C++. To avoid accessing array out of bound index we should use function arr.at(index) to check array out of bound . This function is defined in STL.
+
